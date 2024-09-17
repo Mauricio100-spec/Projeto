@@ -1,7 +1,10 @@
-header{
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+
+.header{
 background-color: blanchedalmond;
 }
-Body{
+
+.body{
     background-color: rgb(255, 255, 255);
+    font-family: "Playwrite";
 }
-font-family:@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
