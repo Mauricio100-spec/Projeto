@@ -1,10 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
-
-.header{
-background-color: blanchedalmond;
-}
-
 .body{
-    background-color: rgb(255, 255, 255);
+    background-color: #832020;
     font-family: "Playwrite";
+}
+:root{
+    --nome-da-cor:#832020;
+    --nome-da-cor:#FFD76F;
+    --nome-da-cor:#404040;
+}
+body{
+    background-color: #FFD76F;
+}
+body class-alunos{
+    background-color: #404040;
+}
+body{
+    background-image:spacesound.webp;
 }
